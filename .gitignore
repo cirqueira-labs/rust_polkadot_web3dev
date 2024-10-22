@@ -1,4 +1,5 @@
 /target
+**/target/
 # ignores perf data and generated performance graphs
 perf.*
 *.svg
